@@ -1,4 +1,4 @@
-# 🌍 EcoLens AI: Phase 2 (Edge-Computing & ESG Compliance)
+# 🌍 EcoLens AI: Phase 1 (Edge-Computing & ESG Compliance)
 
 **EcoLens AI** is a decentralized, edge-computing framework designed for verifiable source-segregation and real-time carbon accounting. This repository focuses on the implementation of the **Waste Intelligence Monitor**, integrating RTSP IP camera streams with a blockchain-inspired audit log for ESG (Environmental, Social and Governance) reporting.
 

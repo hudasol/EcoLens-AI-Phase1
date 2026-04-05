@@ -34,7 +34,7 @@ The core utilizes a **TFLite quantized model** optimized for low-latency inferen
 
 ### 2. Immutable Audit Trail
 To align with **UAE Federal Decree-Law No. 11 (2024)**, every classification event is logged with cryptographic integrity:
-* **Temporal Tracking:** Precise Timestamp & Category logging.
+* **Temporal Tracking:** Precise Timestamp & Category logging. 
 * **Environmental Impact:** Real-time calculation of CO₂ prevention metrics.
 * **Cryptographic Hashing:** Every entry is linked via **SHA-256 anchoring**, creating a tamper-proof ledger of waste diversion for sustainability audits.
 

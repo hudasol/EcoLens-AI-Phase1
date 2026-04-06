@@ -31,7 +31,7 @@ EcoLens-AI-Phase2/
 ### 1. Edge-AI Perception
 The core utilizes a **TFLite quantized model** optimized for low-latency inference on edge devices (e.g., Raspberry Pi). The engine performs real-time classification into six distinct waste streams:
 * **Recyclables:** PET Plastic, Aluminum, Paper.
-* **Non-Recyclables:** General Waste, Organic, and Specialty Handling.
+* **Non-Recyclables:** General Waste, Organic and Specialty Handling.
 
 ### 2. Immutable Audit Trail
 To align with **UAE Federal Decree-Law No. 11 (2024)**, every classification event is logged with cryptographic integrity:

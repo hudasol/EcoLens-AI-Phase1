@@ -24,6 +24,7 @@ EcoLens-AI-Phase2/
 ├── 📄 README.md              # Documentation & Implementation Guide
 └── 📄 requirements.txt       # Dependencies (OpenCV, Streamlit, Pandas)
 
+```
 
 ## 🧠 Core System Architecture
 
